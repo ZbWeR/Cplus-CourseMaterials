@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.l": "cpp",
+        "*.y": "cpp",
+        "algorithm": "c",
+        "stdlib.h": "c",
+        "ostream": "cpp",
+        "new": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}
